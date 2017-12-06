@@ -4,16 +4,6 @@ var FOLDER_NAME = 'Slack Logs';
 
 // メール送信先
 var mail_to = [
-  "yoshikawa.shoko@slogan.jp",
-  "kotaki.daisuke@slogan.jp",
-  "yakubo.nanase@slogan.jp",
-  "sugimura.yuri@slogan.jp",
-  "kuwahara.shohei@slogan.jp",
-  "yoshida.masashi@slogan.jp",
-  "nakazato.kenichi@slogan.jp",
-  "sugimoto@slogan.jp",
-  "iwata.chiho@slogan.jp",
-  "nihira@slogan.jp"
 ];
 
 var dObj = new Date();
